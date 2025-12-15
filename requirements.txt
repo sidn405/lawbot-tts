@@ -4,7 +4,7 @@ flask-cors==4.0.0
 gunicorn==21.2.0
 
 # TTS Dependencies
-TTS==0.22.0
+TTS
 torch==2.5.1
 torchaudio==2.5.1
 
